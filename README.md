@@ -1,5 +1,8 @@
 # frontend et Backend
 TodoList
+
+![image](https://github.com/BEDDAR/Todo/assets/128361027/08bee30e-f89b-45a9-8ad9-03dac153d737)
+
 ## Project setup
 ```
 npm install
@@ -28,3 +31,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
  Backend node.js avec express => les endpoints se trouvent dans le fichier Server.js
 
  J'ai crée la table tasks qui se trouve dans la base de donnée projet
+ 
